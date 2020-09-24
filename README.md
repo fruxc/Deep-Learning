@@ -1,2 +1,2 @@
 # Deep-Learning
-Basic program and modelling in deep learning
+Basic program and modeling in deep learning
